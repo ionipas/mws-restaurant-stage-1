@@ -279,3 +279,20 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
+@media screen and (max-width: 444px) {
+  .filter-options {
+    height: 120px;
+  }
+  .filter-options h2 {
+    font-size: 1.2rem;
+  }
+  .filter-options select {
+  font-size: 1.2rem;
+  }
+  #restaurants-list p {
+    font-size: 13pt;
+  }
+  #restaurants-list a {
+  font-size: 11pt;
+  }
+}
