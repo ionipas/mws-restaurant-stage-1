@@ -109,6 +109,8 @@ nav h1 a {
   height: 50px;
   background-color: #3397DB;
   align-items: center;
+  display: flex;
+  justify-content: center;
 }
 .filter-options h2 {
   color: white;
@@ -280,19 +282,30 @@ nav h1 a {
   color: #666;
 }
 @media screen and (max-width: 444px) {
-  .filter-options {
-    height: 120px;
-  }
-  .filter-options h2 {
-    font-size: 1.2rem;
-  }
-  .filter-options select {
-  font-size: 1.2rem;
-  }
   #restaurants-list p {
     font-size: 13pt;
   }
-  #restaurants-list a {
-  font-size: 11pt;
+  #restaurants-list li a {
+    font-size: 13pt;
+  }
+}
+@media screen and (min-width: 992px) {
+  .filter-options select {
+    margin-right: 100px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .filter-options {
+    height: 140px;
+    flex-wrap: wrap;
+  }
+  .filter-options h2 {
+    font-size: 1.2rem;
+    width: 80%;
+    margin-top: 10px;
+  }
+  .filter-options select {
+  font-size: 1.2rem;
+  width: 80%;
   }
 }
