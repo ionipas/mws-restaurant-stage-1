@@ -288,7 +288,30 @@ nav h1 a {
     font-size: 13pt;
   }
 }
-
+@media screen and (max-width: 768px) {
+  .inside #map-container {
+    position: relative;
+    height: 400px;
+    width: 100%;
+    top: 130px;
+    z-index: 800;
+  }
+  #breadcrumb {
+    width: 100%;
+  }
+  #restaurant-container, #reviews-container {
+    width: 95%;
+  }
+  .inside #restaurant-img {
+    width: 95%;
+  }
+  .inside #restaurant-cuisine {
+    width: 95%;
+  }
+  #reviews-list {
+    width: 95%;
+  }
+}
 @media screen and (min-width: 992px) {
   .filter-options select {
     margin-right: 100px;
