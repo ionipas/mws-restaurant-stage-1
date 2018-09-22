@@ -249,6 +249,9 @@ nav h1 a {
   padding: 140px 0 30px 5%;
   width: 45%;
 }
+#reviews-container {
+  padding: 30px 0 30px 5%;
+}
 #reviews-container h2 {
   color: #f58500;
   font-size: 24pt;
@@ -285,6 +288,7 @@ nav h1 a {
     font-size: 13pt;
   }
 }
+
 @media screen and (min-width: 992px) {
   .filter-options select {
     margin-right: 100px;
