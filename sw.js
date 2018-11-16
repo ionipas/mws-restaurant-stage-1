@@ -48,3 +48,5 @@ const filesToCache = [
 	'/js/main.js'
 	'/js/restaurant_info.js'
 ];
+
+const cacheName = 'pages-cache-v1';
