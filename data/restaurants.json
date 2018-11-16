@@ -6,6 +6,7 @@
     "photograph": "1.jpg",
     "photograph_small": "1-small-1x.jpg",
     "photograph_srcset": "/img/1-medium-1x.jpg 444w, /img/1-large-1x.jpg 768w, /img/1.jpg 1200w",
+    "photograph_alt": "friends enjoying a meal at Mission Chinese Food Restaurant",
     "address": "171 E Broadway, New York, NY 10002",
     "latlng": {
       "lat": 40.713829,
@@ -47,6 +48,7 @@
     "photograph": "2.jpg",
     "photograph_small": "2-small-1x.jpg",
     "photograph_srcset": "/img/2-medium-1x.jpg 444w, /img/2-large-1x.jpg 768w, /img/2.jpg 1200w",
+    "photograph_alt": "a pizza on a plate",
     "address": "919 Fulton St, Brooklyn, NY 11238",
     "latlng": {
       "lat": 40.683555,
@@ -88,6 +90,7 @@
     "photograph": "3.jpg",
     "photograph_small": "3-small-1x.jpg",
     "photograph_srcset": "/img/3-medium-1x.jpg 444w, /img/3-large-1x.jpg 768w, /img/3.jpg 1200w",
+    "photograph_alt": "cool restaurant where food is cooked for you at the grill on your table",
     "address": "1 E 32nd St, New York, NY 10016",
     "latlng": {
       "lat": 40.747143,
@@ -129,6 +132,7 @@
     "photograph": "4.jpg",
     "photograph_small": "4-small-1x.jpg",
     "photograph_srcset": "/img/4-medium-1x.jpg 444w, /img/4-large-1x.jpg 768w, /img/4.jpg 1200w",
+    "photograph_alt": "corner entry in the Katz's Delicatessen Restaurant",
     "address": "205 E Houston St, New York, NY 10002",
     "latlng": {
       "lat": 40.722216,
@@ -170,6 +174,7 @@
     "photograph": "5.jpg",
     "photograph_small": "5-small-1x.jpg",
     "photograph_srcset": "/img/5-medium-1x.jpg 444w, /img/5-large-1x.jpg 768w, /img/5.jpg 1200w",
+    "photograph_alt": "friendly atmosphere at the Roberta's Pizza Restaurant",
     "address": "261 Moore St, Brooklyn, NY 11206",
     "latlng": {
       "lat": 40.705089,
@@ -211,6 +216,7 @@
     "photograph": "6.jpg",
     "photograph_small": "6-small-1x.jpg",
     "photograph_srcset": "/img/6-medium-1x.jpg 444w, /img/6-large-1x.jpg 768w, /img/6.jpg 1200w",
+    "photograph_alt": "people standing in line waiting for a delicious pit-smoked barbecue",
     "address": "454 Van Brunt St, Brooklyn, NY 11231",
     "latlng": {
       "lat": 40.674925,
@@ -252,6 +258,7 @@
     "photograph": "7.jpg",
     "photograph_small": "7-small-1x.jpg",
     "photograph_srcset": "/img/7-medium-1x.jpg 444w, /img/7-large-1x.jpg 768w, /img/7.jpg 1200w",
+    "photograph_alt": "two men walking their dog in front of the Superiority Burger Restaurant",
     "address": "430 E 9th St, New York, NY 10009",
     "latlng": {
       "lat": 40.727397,
@@ -293,6 +300,7 @@
     "photograph": "8.jpg",
     "photograph_small": "8-small-1x.jpg",
     "photograph_srcset": "/img/8-medium-1x.jpg 444w, /img/8-large-1x.jpg 768w, /img/8.jpg 1200w",
+    "photograph_alt": "Exterior view of the Dutch restaurant with light stone facade, big windows and cheery awnings",
     "address": "131 Sullivan St, New York, NY 10012",
     "latlng": {
       "lat": 40.726584,
@@ -334,6 +342,7 @@
     "photograph": "9.jpg",
     "photograph_small": "9-small-1x.jpg",
     "photograph_srcset": "/img/9-medium-1x.jpg 444w, /img/9-large-1x.jpg 768w, /img/9.jpg 1200w",
+    "photograph_alt": "Interior of Mu Ramen Restaurant with two young people at a table",
     "address": "1209 Jackson Ave, Queens, NY 11101",
     "latlng": {
       "lat": 40.743797,
@@ -375,6 +384,7 @@
     "photograph": "10.jpg",
     "photograph_small": "10-small-1x.jpg",
     "photograph_srcset": "/img/10-medium-1x.jpg 444w, /img/10-large-1x.jpg 768w, /img/10.jpg 1200w",
+    "photograph_alt": "Interior of Casa Enrique Restaurant who has a very simple and clean decor",
     "address": "5-48 49th Ave, Queens, NY 11101",
     "latlng": {
       "lat": 40.743394,
