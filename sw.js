@@ -44,9 +44,18 @@ const filesToCache = [
 	'/img/10-large-1x.jpg',
 	'/img/10-medium-1x.jpg',
 	'/img/10-small-1x.jpg',
-	'/js/dbhelper.js'
-	'/js/main.js'
+	'/js/dbhelper.js',
+	'/js/main.js',
 	'/js/restaurant_info.js'
 ];
 
 const cacheName = 'pages-cache-v1';
+
+self.addEventListener('install', function(event) {
+  event.waitUntil(
+    caches.open(cacheName)
+    .then(function(cache) {
+      return cache.addAll(filesToCache);
+    })
+  );
+});
